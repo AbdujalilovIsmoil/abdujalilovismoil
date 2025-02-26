@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  Hey there, I'm <strong>Ismoil Abdujalilov!</strong> 🚀
+  Hi, I'm <strong>Ismoil Abdujalilov!</strong> 🚀
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Redux+%7C+TypeScript;UI%2FUX+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Middle+React+%26+React+Native+Developer;Frontend+Engineer+%7C+Tech+Instructor;Open+Source+Contributor+%7C+Content+Creator" />
 </p>
 
 <p align="center">
@@ -14,11 +14,20 @@
 ---
 
 ## 🚀 **About Me**
-- 💻 **Frontend Developer** with **4+ years** of experience  
-- ⚛️ Expert in **React.js, Redux, TypeScript, Zustand, React-Query**  
-- 🎨 Passionate about **UI/UX Design** and creating **user-friendly** web applications  
-- 🎯 Always improving **problem-solving** and **coding skills**  
-- 💡 Open to **collaborations** and **exciting new projects**  
+- 💻 **Middle React.js & React Native Developer** with **4+ years** of experience  
+- ⚛️ Specializing in **React.js, React Native, Redux, TypeScript, Zustand, React-Query**  
+- 🎨 Passionate about **UI/UX Design** and **frontend architecture**  
+- 🏆 Contributed to **open-source projects** and mentored junior developers  
+- 🎯 Focused on **scalability, performance, and maintainability**  
+
+---
+
+## 🏆 **My Achievements**
+- 🏅 **Solved 50+ problems on LeetCode** & **200+ challenges on Codewars**  
+- 🎥 **Created 20+ video tutorials on React.js** for **ITech YouTube channel**  
+- 🏫 **Frontend Instructor at** [UnitDev](https://www.unitdev.uz), [Najot Ta'lim](https://najottalim.uz) & [Alfraganus University](https://www.afu.uz/uz)  
+- 📢 **Founder & Content Creator** at **Codewars Problems & Coders Uz**  
+- 🚀 **Active contributor to the frontend developer community**  
 
 ---
 
@@ -30,6 +39,7 @@
 
 ### 🚀 **Frontend Technologies & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=react&logoColor=white)
@@ -63,18 +73,12 @@
   <a href="https://www.codewars.com/users/AbdujalilovIsmoiljon">
     <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdujalilovIsmoiljon&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdujalilovIsmoiljon&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalilovIsmoiljon&layout=compact&theme=tokyonight" />
+  <a href="https://t.me/codewars_problems">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/CODERS_UZZ">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
