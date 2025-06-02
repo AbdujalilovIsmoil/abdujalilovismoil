@@ -14,8 +14,8 @@
 ---
 
 ## 🚀 **About Me**
-- 💻 **Middle React.js & React Native Developer** with **4+ years** of experience  
-- ⚛️ Specializing in **React.js, React Native, Redux, TypeScript, Zustand, React-Query**  
+- 💻 **Middle React.js Developer** with **4+ years** of experience  
+- ⚛️ Specializing in **React.js, Redux, TypeScript, Zustand, React-Query**  
 - 🎨 Passionate about **UI/UX Design** and **frontend architecture**  
 - 🏆 Contributed to **open-source projects** and mentored junior developers  
 - 🎯 Focused on **scalability, performance, and maintainability**  
