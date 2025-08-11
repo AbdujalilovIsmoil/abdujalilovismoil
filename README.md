@@ -39,7 +39,6 @@
 
 ### 🚀 **Frontend Technologies & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=react&logoColor=white)
