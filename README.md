@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 **About Me**
-- 💻 **Middle React.js Developer** with **4+ years** of experience  
+- 💻 **Middle React.js Developer** with **2+ years** of real experience  
 - ⚛️ Specializing in **React.js, Redux, TypeScript, Zustand, React-Query**  
 - 🎨 Passionate about **UI/UX Design** and **frontend architecture**  
 - 🏆 Contributed to **open-source projects** and mentored junior developers  
